@@ -24,8 +24,6 @@ Hey there! :smile: I'm a graduate computer science student @USC graduating May 2
 ![C++](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff)
 
-#### Tools:
-
 
 #### Front-end:
 
@@ -49,5 +47,6 @@ Hey there! :smile: I'm a graduate computer science student @USC graduating May 2
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 ![Unity](http://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=000000)
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)
+![OpenGl](http://img.shields.io/badge/-OpenGl-5586A4?style=flat-square&logo=OpenGl&logoColor=ffffff)
 
 <!-- BLOG-POST-LIST:END -->
