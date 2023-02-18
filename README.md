@@ -9,7 +9,7 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 
 ## About Me :wave:
 
-Hey there! :smile: I'm a graduate computer science student @USC graduating May 2023. I'm currently based in Los Angeles, CA but I'm willing to relocate! I'm looking for new grad software engineer role. Send me [**an e-mail**](mailto:luerlyu12@gmail.com) if you think I'm a good fit!
+Hey there! :smile: I'm a graduate computer science student @USC graduating May 2023. I'm currently based in Los Angeles, CA but I'm willing to relocate! I'm looking for new grad software engineer role. Send me an [**e-mail**](mailto:luerlyu12@gmail.com) if you think I'm a good fit!
 
 <!-- More info on badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
 <!-- SimpleIcons: https://simpleicons.org/ -->
