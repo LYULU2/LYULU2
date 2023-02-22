@@ -26,6 +26,7 @@ Hey there! :smile: I'm a graduate computer science student @USC graduating May 2
 
 #### Front-end:
 
+![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![HTML](http://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![CSS3](http://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
